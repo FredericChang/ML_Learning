@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://D:/CodeProject/ML/.idea/ML.iml" filepath="D:/CodeProject/ML/.idea/ML.iml" />
-      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://D:/CodeProject/ML/ML_Learning_Project/.idea/ML_Learning_Project.iml" filepath="D:/CodeProject/ML/ML_Learning_Project/.idea/ML_Learning_Project.iml" />
     </modules>
   </component>
 </project>
