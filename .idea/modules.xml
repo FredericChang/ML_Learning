@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/CodeProject/ML/Flax/.idea/Flax.iml" filepath="D:/CodeProject/ML/Flax/.idea/Flax.iml" />
       <module fileurl="file://D:/CodeProject/ML/ML_Learning_Project/.idea/ML_Learning_Project.iml" filepath="D:/CodeProject/ML/ML_Learning_Project/.idea/ML_Learning_Project.iml" />
+      <module fileurl="file://D:/CodeProject/ML/MyNeuralNetwork-master/.idea/MyNeuralNetwork-master.iml" filepath="D:/CodeProject/ML/MyNeuralNetwork-master/.idea/MyNeuralNetwork-master.iml" />
+      <module fileurl="file://D:/CodeProject/ML/TensorFlow/.idea/TensorFlow.iml" filepath="D:/CodeProject/ML/TensorFlow/.idea/TensorFlow.iml" />
     </modules>
   </component>
 </project>
